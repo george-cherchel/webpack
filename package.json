@@ -1,0 +1,17 @@
+{
+  "name": "sample_webpack",
+  "version": "0.0.1",
+  "description": "webpack sample",
+  "author": "george",
+  "license": "ISC",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "webpack": "^2.2.1"
+  }
+}
